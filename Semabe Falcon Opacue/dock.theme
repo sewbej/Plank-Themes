@@ -1,6 +1,6 @@
 [PlankTheme]
 #The roundness of the top corners.
-TopRoundness=16
+TopRoundness=18
 #The roundness of the bottom corners.
 BottomRoundness=1
 #The thickness (in pixels) of lines drawn.
